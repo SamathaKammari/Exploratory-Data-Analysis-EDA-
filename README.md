@@ -12,3 +12,5 @@ EDA helps to identify hidden patterns and relationships between different data p
 Allows to spot errors or unusual data points (outliers) that could affect your results.
 Insights that you obtain from EDA help you decide which features are most important for building models and how to prepare them to improve performance.
 By understanding the data, EDA helps us in choosing the best modeling techniques and adjusting them for better results.
+
+ https://www.geeksforgeeks.org/exploratory-data-analysis-eda-types-and-tools/
